@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的个人App</string>
+    <string name="search">搜索</string>
+    <string name="study_progress">学习进度</string>
+    <string name="study_notification">学习通知</string>
+</resources>

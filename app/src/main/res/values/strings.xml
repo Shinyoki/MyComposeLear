@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyComposeLear1</string>
+    <string name="search">Search</string>
+    <string name="study_progress">Study Progress</string>
+    <string name="study_notification">Study Notification</string>
+</resources>
